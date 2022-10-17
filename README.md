@@ -1,6 +1,6 @@
 # Realbnb
 
-![preview](./.github/preview.png)
+![preview](./.github/preview2.png)
 
 > Feito no dia 17/10/2022
 
